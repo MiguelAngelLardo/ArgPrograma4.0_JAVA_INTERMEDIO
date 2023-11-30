@@ -18,6 +18,7 @@ En particular, en esta entrega se solicita:
 1. Modelado de clases con Mapeo (anotaciones JPA) de entidades para que las mismas
 sean persistidas mediante el ORM Hibernate.
 2. Repositorios/Servicios que den solución a los requerimientos planteados:
+   
 a. Quién fue el técnico con más incidentes resueltos en los últimos N días
 b. Quién fue el técnico con más incidentes resueltos de una determinada
 especialidad en los últimos N días
