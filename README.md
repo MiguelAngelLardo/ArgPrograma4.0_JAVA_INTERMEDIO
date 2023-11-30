@@ -20,6 +20,8 @@ sean persistidas mediante el ORM Hibernate.
 2. Repositorios/Servicios que den solución a los requerimientos planteados:
    
 a. Quién fue el técnico con más incidentes resueltos en los últimos N días
+
 b. Quién fue el técnico con más incidentes resueltos de una determinada
 especialidad en los últimos N días
+
 c. Quién fue el técnico que más rápido resolvió los incidentes
